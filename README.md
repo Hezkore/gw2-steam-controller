@@ -12,7 +12,7 @@ Works with Xbox 360/One/X and PS3/4/5 controllers.
 * Start [Guild Wars 2](https://store.steampowered.com/app/1284210)
 * Copy this link into your webbrowser - `steam://controllerconfig/1284210/2859128070`
 * Switch back to [Guild Wars 2](https://store.steampowered.com/app/1284210) and accept the new controller layout
-* Bind and press your "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode#/media/File:Action_Camera_Mode_options_menu.jpg)" button in Guild Wars 2
+* Bind and press your "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode#/media/File:Action_Camera_Mode_options_menu.jpg)" button in Guild Wars 2 controller options
 
 You're now ready to play the game.\
 Next time you start the game; just press the "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" button and play.
