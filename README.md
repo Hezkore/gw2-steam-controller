@@ -36,7 +36,7 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
   * Press Left Stick - _(R)_ Auto Run
   * Right Stick - _(Mouse)_ Move Camera
   * Press Right Stick - _(TAB)_ Next Target
-  * Hold Right Stick - Adjust Camera with Left Stick
+  * Hold Right Stick - Adjust camera distance with Left Stick
 
   * A - _(F)_ Interact / Talk / Use
   * B - _(V)_ Dodge
