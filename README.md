@@ -37,6 +37,7 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
   * Right Stick - _(Mouse)_ Move Camera
   * Press Right Stick - _(TAB)_ Next Target
   * Hold Right Stick - Adjust camera distance with Left Stick
+  * D-Pad - _(;')_ Swap Weapon
 
   * A - _(F)_ Interact / Talk / Use
   * B - _(V)_ Dodge
@@ -68,3 +69,15 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
     * B - _(F3)_ Skill 3
     * X - _(F1)_ Skill 1
     * Y - _(F4)_ Skill 4
+
+* Menus
+  * Left Stick - _(Mouse)_ Move Mouse Cursor
+  * Right Stick - _(Scroll/Arrow Keys)_ Scroll Up/Down & Move Left/Right
+
+  * A - _(LMB)_ Click
+  * B - _(Escape)_ Abort/Back
+  * X - _(RMB)_ More Item Options
+  * Y - _(Ctrl+LMB)_ Paste Item To Chat
+
+  * Left Bumper - _(Page Up)_ One Map Layer Up
+  * Right Bumper - _(Page Down)_ One Map Layer Down
