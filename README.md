@@ -26,4 +26,5 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
 
 * Unable to move in-game, mouse cursor only moves
   * You must enter the "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" mode.\
+  This hides and locks the mouse cursor to the camera.\
  The "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" button has no bind by default, so you must bind this yourself and then press it once to enter "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" mode.
