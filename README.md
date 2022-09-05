@@ -25,4 +25,5 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
   Just enter controller options in Guild Wars 2, double click the "Swap Weapon" bind and press the D-Pad Left/Right or Up/Down depending on what you prefer.
 
 * Unable to move in-game, mouse cursor only moves
- * 
+  * You must enter the "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" mode.\
+ The "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" button has no bind by default, so you must bind this yourself and then press it once to enter "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode)" mode.
