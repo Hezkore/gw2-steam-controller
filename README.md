@@ -5,7 +5,7 @@
 * Start Steam [Big Picture](https://help.steampowered.com/en/faqs/view/3725-76D3-3F31-FB63#how)
 * Start [Guild Wars 2](https://store.steampowered.com/app/1284210)
 * Copy this link into your webbrowser - `steam://controllerconfig/1284210/2859128070`
-* Accept the new controller configuration in Steam
+* Switch back to Guild Wars 2 and accept the new controller layout
 * Bind and press your "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode#/media/File:Action_Camera_Mode_options_menu.jpg)" button in Guild Wars 2
 
 You're now ready to play the game.\
