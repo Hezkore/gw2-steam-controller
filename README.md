@@ -46,13 +46,13 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
   * Start - _(I)_ Inventory
   * Hold Start - _(P)_ Party / Social / LFG
   
-  * Left Trigger - _(Left Skill Bar)_ Use Weapon Skills
+  * Hold Left Trigger - _(Left Skill Bar)_ Use Weapon Skills
     * A - _(3)_ Skill 3
     * B - _(4)_ Skill 4
     * X - _(2)_ Skill 2
     * Y - _(5)_ Skill 5
 
-  * Right Trigger - _(Right Skill Bar)_ Use Utility Skills
+  * Hold Right Trigger - _(Right Skill Bar)_ Use Utility Skills
     * A - _(8)_ Skill 8
     * B - _(9)_ Skill 9
     * X - _(7)_ Skill 7
@@ -60,7 +60,7 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
 
   * Left Bumper - _(6)_ Use Healing Skill
 
-  * Right Bumper - _(Profession Skill Bar)_ Use Profession Skills
+  * Hold Right Bumper - _(Profession Skill Bar)_ Use Profession Skills
     * A - _(F2)_ Skill 2
     * B - _(F3)_ Skill 3
     * X - _(F1)_ Skill 1
