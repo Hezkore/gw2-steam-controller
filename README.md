@@ -42,7 +42,7 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
   * Y - _(Space)_ Jump
 
   * Select - _(H)_ Hero Panel
-  * Hold Select _(M)_ Map
+  * Hold Select - _(M)_ Map
   * Start - _(I)_ Inventory
   * Hold Start - _(P)_ Party / Social / LFG
   
