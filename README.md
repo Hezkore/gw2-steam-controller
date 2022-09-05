@@ -8,6 +8,8 @@ Works with Xbox 360/One/X and PS3/4/5 controllers.
 
 ## How to use
 
+[Video Instructions](https://youtu.be/UKnAx0o_jqE)
+
 * Start Steam [Big Picture](https://help.steampowered.com/en/faqs/view/3725-76D3-3F31-FB63#how)
 * Start [Guild Wars 2](https://store.steampowered.com/app/1284210)
 * Copy this link into your webbrowser - `steam://controllerconfig/1284210/2859128070`
