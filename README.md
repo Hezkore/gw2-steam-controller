@@ -9,7 +9,7 @@
 * Bind and press your "[Action Camera](https://wiki.guildwars2.com/wiki/Action_Camera_Mode#/media/File:Action_Camera_Mode_options_menu.jpg)" button in Guild Wars 2
 
 You're now ready to play the game.\
-Next time you start the game; just have to press the "Action Camera" button and play.
+Next time you start the game; just press the "Action Camera" button and play.
 
 ## Issues
 
