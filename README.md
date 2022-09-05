@@ -4,7 +4,7 @@ An advanced Guild Wars 2 controller configuration.\
 Separate custom binds for menus and in-game.\
 Assumes default Guild Wars 2 keybinds and uses the Guild Wars 2 action camera.
 
-Works with Xbox 360/One and PS3/4/5 controllers.
+Works with Xbox 360/One/X and PS3/4/5 controllers.
 
 ## How to use
 
