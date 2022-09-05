@@ -15,4 +15,4 @@ Next time you start the game; just press the "[Action Camera](https://wiki.guild
 
 * Unable to swap weapons
   * The default button for swapping weapons in Guild Wars 2 is different depending on your keyboard layout.\
-  Just enter options in Guild Wars 2, double click the "Swap Weapon" bind and press the D-Pad Left/Right or Up/Down depending on what you prefer.
+  Just enter controller options in Guild Wars 2, double click the "Swap Weapon" bind and press the D-Pad Left/Right or Up/Down depending on what you prefer.
